@@ -19,8 +19,10 @@
             "ChurakovMike\\Project\\": "src/"
         }
     },
-    "require": {},
     "config": {
         "sort-packages": true
+    },
+    "require-dev": {
+        "vimeo/psalm": "^4.13"
     }
 }
