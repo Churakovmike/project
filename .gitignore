@@ -2,3 +2,4 @@
 psalm.xml
 phpunit.xml
 .phpunit.result.cache
+build
