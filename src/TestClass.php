@@ -9,7 +9,7 @@ class TestClass
         return 'func1';
     }
 
-    public function func2(): string
+    public function func2(): int
     {
         return 222;
     }
