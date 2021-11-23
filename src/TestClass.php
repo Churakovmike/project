@@ -1,8 +1,6 @@
 <?php
 
-
 namespace ChurakovMike\Project;
-
 
 class TestClass
 {
@@ -11,12 +9,10 @@ class TestClass
         return 'func1';
     }
 
-
     public function func2(): int
     {
         return 222;
     }
-
 
     public function func3(): array
     {
