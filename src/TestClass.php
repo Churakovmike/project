@@ -14,7 +14,7 @@ class TestClass
         return 222;
     }
 
-    public function func3(): string
+    public function func3(): array
     {
         return [];
     }

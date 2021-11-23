@@ -10,6 +10,6 @@ class TestClassTest extends TestCase
     public function testPackage(): void
     {
         $object = new TestClass();
-        $this->assertEquals('foo', $object->func1());
+        $this->assertEquals('func1', $object->func1());
     }
 }
