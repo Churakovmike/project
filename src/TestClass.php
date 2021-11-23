@@ -1,6 +1,8 @@
 <?php
 
+
 namespace ChurakovMike\Project;
+
 
 class TestClass
 {
