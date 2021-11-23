@@ -1,0 +1,26 @@
+{
+    "name": "churakovmike/project",
+    "type": "library",
+    "description": "Наш пакет для презентации",
+    "keywords": [
+        "packages"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Churakov Mike",
+            "role": "developer",
+            "email": "churakovmike@mail.ru",
+            "homepage": "https://github.com/Churakovmike"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ChurakovMike\\Project\\": "src/"
+        }
+    },
+    "require": {},
+    "config": {
+        "sort-packages": true
+    }
+}
